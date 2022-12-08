@@ -1,0 +1,22 @@
+{
+  "name": "json123",
+  "version": "1.0.0",
+  "description": "\"fake server\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "ss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omurkullove/json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omurkullove/json/issues"
+  },
+  "homepage": "https://github.com/omurkullove/json#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
